@@ -10,6 +10,11 @@
 			"LoadingPhase": "Default"
 		},
 		{
+			"Name": "VoxFormatModuleEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
 			"Name": "VoxFormat",
 			"Type": "Runtime",
 			"LoadingPhase": "PreLoadingScreen"
